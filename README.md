@@ -2,4 +2,7 @@
 
 ## Cadet application
 
-[CAPF15](CAPF15.pdf)
+- [Application](Application.pdf)
+
+    - [CAPF15 Paper Application](CAPF15.pdf)
+    - [Online National Application](https://capmembers.com/cadetjoinonline)
